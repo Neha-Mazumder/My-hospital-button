@@ -75,11 +75,18 @@ sequenceDiagram
 
 ## 📸 Screenshots & UI
 
-| Patient Interface | Nurse Dashboard | Analytics |
-|  | --- | --- |
-|  |  |  |
-
----
+![New Account_SS](img/New_Account.PNG)
+![Login](img/login.PNG)
+![New Account_SS](img/appointment.PNG)
+![New Account_SS](img/Screenshot_(179).png)
+![New Account_SS](img/speciality.PNG)
+![New Account_SS](img/service-cards.PNG)
+![New Account_SS](img/footer.PNG)
+![New Account_SS](img/Screenshot_(176).png)
+![New Account_SS](img/Screenshot_(177).png)
+![New Account_SS](img/Screenshot_(178).png)
+![New Account_SS](img/rohim-update.PNG)
+![New Account_SS](img/chatbot.PNG)
 
 ## ⚙️ Installation
 
